@@ -56,12 +56,12 @@ h1 {
     align-items: flex-start;
 }
 
-.radio-info .caption {
+.caption {
     font-size: 1.1em;
     font-weight: 500;
 }
 
-.radio-info .info,
+.radio-info label,
 .form-foot label {
     font-size: 0.7em;
 }
